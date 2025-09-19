@@ -27,7 +27,5 @@
     ![Italian](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9%20Conversational%20in%20Italian-gray.svg)
     ![Japanese](https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5%20Conversational%20in%20Japanese-gray.svg)
 
-Website Status: [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://cudachristopher.com)
-
-Credit: [Christopher Cuda](https://github.com/cudac)<br>
-Last Edited on: 07/25/2025
+Credit: [Christopher Cuda](https://cudachristopher.com)<br>
+Last Edited on: 09/19/2025
