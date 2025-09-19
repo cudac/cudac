@@ -1,4 +1,4 @@
-### Hi there, I'm Shiki. 👋
+### Hi there, I'm Christopher (Shiki). 👋
 
 #### I am an aspiring linguist and software engineer that has a lot of experience running Minecraft servers! Below, I have shared the highlights of my skillset!
 
