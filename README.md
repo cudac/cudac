@@ -12,7 +12,7 @@
 
 <h4 align="center">You may get in contact with me via one of the methods below:</h4>
 
-![Email](https://img.shields.io/badge/contact@shiki.dev-E03D3B?logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/cuda.christopher@gmail.com-E03D3B?logo=gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/shikidev-5662F6?logo=discord&logoColor=white)
 
 <h6 align="center"><i>I can communicate in Français, English, Italiano & 日本語.
